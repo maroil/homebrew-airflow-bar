@@ -1,6 +1,6 @@
 cask "airflow-bar" do
   version "0.1.0"
-  sha256 "2377ccf3807609bcebc48b65864942aa27f4962d651bd6d7073e90097bb38f16"
+  sha256 "9cac4d71d16a06ad3d5f06455908d13efc39198186a4526cde2a4ca1e2e2bac0"
 
   url "https://github.com/maroil/airflow-bar/releases/download/v#{version}/AirflowBar-#{version}.dmg"
   name "AirflowBar"
